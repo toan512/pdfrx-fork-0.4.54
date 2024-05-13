@@ -1,0 +1,5 @@
+/Users/admin/Documents/flutter_project/mood_mixer/plugin_fork/pdfrx/pdfrx-0.4.54/android/.cxx/RelWithDebInfo/1r3q2m1f/x86_64/CMakeFiles/edit_cache.dir
+/Users/admin/Documents/flutter_project/mood_mixer/plugin_fork/pdfrx/pdfrx-0.4.54/android/.cxx/RelWithDebInfo/1r3q2m1f/x86_64/CMakeFiles/rebuild_cache.dir
+/Users/admin/Documents/flutter_project/mood_mixer/plugin_fork/pdfrx/pdfrx-0.4.54/android/.cxx/RelWithDebInfo/1r3q2m1f/x86_64/shared/CMakeFiles/pdfrx.dir
+/Users/admin/Documents/flutter_project/mood_mixer/plugin_fork/pdfrx/pdfrx-0.4.54/android/.cxx/RelWithDebInfo/1r3q2m1f/x86_64/shared/CMakeFiles/edit_cache.dir
+/Users/admin/Documents/flutter_project/mood_mixer/plugin_fork/pdfrx/pdfrx-0.4.54/android/.cxx/RelWithDebInfo/1r3q2m1f/x86_64/shared/CMakeFiles/rebuild_cache.dir

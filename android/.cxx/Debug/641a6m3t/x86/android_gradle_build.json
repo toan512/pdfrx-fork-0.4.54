@@ -1,0 +1,41 @@
+{
+  "buildFiles": [
+    "/Users/admin/Documents/flutter_project/mood_mixer/plugin_fork/pdfrx/pdfrx-0.4.54/android/CMakeLists.txt",
+    "/Users/admin/Documents/flutter_project/mood_mixer/plugin_fork/pdfrx/pdfrx-0.4.54/src/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/opt/homebrew/bin/ninja",
+      "-C",
+      "/Users/admin/Documents/flutter_project/mood_mixer/plugin_fork/pdfrx/pdfrx-0.4.54/android/.cxx/Debug/641a6m3t/x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/opt/homebrew/bin/ninja",
+    "-C",
+    "/Users/admin/Documents/flutter_project/mood_mixer/plugin_fork/pdfrx/pdfrx-0.4.54/android/.cxx/Debug/641a6m3t/x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "pdfrx::@b1f7512934231ee3f25d": {
+      "toolchain": "toolchain",
+      "abi": "x86",
+      "artifactName": "pdfrx",
+      "output": "/Users/admin/Documents/flutter_project/mood_mixer/build/pdfrx/intermediates/cxx/Debug/641a6m3t/obj/x86/libpdfrx.so",
+      "runtimeFiles": [
+        "/Users/admin/Documents/flutter_project/mood_mixer/plugin_fork/pdfrx/pdfrx-0.4.54/android/.lib/latest/x86/libpdfium.so"
+      ]
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/admin/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang.lld",
+      "cppCompilerExecutable": "/Users/admin/Library/Android/sdk/ndk/23.1.7779620/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++.lld"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,9 @@
+# ninja log v5
+1	486	1714180179114045500	shared/CMakeFiles/pdfrx.dir/pdfium_interop.cpp.o	7e5722cae1de6c63
+486	643	1714180179260458599	/Users/admin/Documents/flutter_project/mood_mixer/build/pdfrx/intermediates/cxx/RelWithDebInfo/1r3q2m1f/obj/armeabi-v7a/libpdfrx.so	8e77414ce4d23e5b
+2	66	1714180501125294785	/Users/admin/Documents/flutter_project/mood_mixer/build/pdfrx/intermediates/cxx/RelWithDebInfo/1r3q2m1f/obj/armeabi-v7a/libpdfrx.so	8e77414ce4d23e5b
+2	61	1714531979587240702	/Users/admin/Documents/flutter_project/mood_mixer/build/pdfrx/intermediates/cxx/RelWithDebInfo/1r3q2m1f/obj/armeabi-v7a/libpdfrx.so	8e77414ce4d23e5b
+2	75	1714813770103846663	/Users/admin/Documents/flutter_project/mood_mixer/build/pdfrx/intermediates/cxx/RelWithDebInfo/1r3q2m1f/obj/armeabi-v7a/libpdfrx.so	8e77414ce4d23e5b
+3	71	1714814376278943260	/Users/admin/Documents/flutter_project/mood_mixer/build/pdfrx/intermediates/cxx/RelWithDebInfo/1r3q2m1f/obj/armeabi-v7a/libpdfrx.so	8e77414ce4d23e5b
+2	90	1715091454806907814	/Users/admin/Documents/flutter_project/mood_mixer/build/pdfrx/intermediates/cxx/RelWithDebInfo/1r3q2m1f/obj/armeabi-v7a/libpdfrx.so	8e77414ce4d23e5b
+2	58	1715130543478058564	/Users/admin/Documents/flutter_project/mood_mixer/build/pdfrx/intermediates/cxx/RelWithDebInfo/1r3q2m1f/obj/armeabi-v7a/libpdfrx.so	8e77414ce4d23e5b

@@ -1,0 +1,19 @@
+# ninja log v5
+1	711	1713891405044004775	shared/CMakeFiles/pdfrx.dir/pdfium_interop.cpp.o	879d132af7c34508
+712	1016	1713891405324089298	/Users/admin/Documents/flutter_project/mood_mixer/build/pdfrx/intermediates/cxx/Debug/641a6m3t/obj/armeabi-v7a/libpdfrx.so	ae0c67abc98887e5
+6	91	1713892411452177877	/Users/admin/Documents/flutter_project/mood_mixer/build/pdfrx/intermediates/cxx/Debug/641a6m3t/obj/armeabi-v7a/libpdfrx.so	ae0c67abc98887e5
+3	197	1714207811107000032	/Users/admin/Documents/flutter_project/mood_mixer/build/pdfrx/intermediates/cxx/Debug/641a6m3t/obj/armeabi-v7a/libpdfrx.so	ae0c67abc98887e5
+4	127	1714536993616488245	/Users/admin/Documents/flutter_project/mood_mixer/build/pdfrx/intermediates/cxx/Debug/641a6m3t/obj/armeabi-v7a/libpdfrx.so	ae0c67abc98887e5
+3	151	1714814182647944113	/Users/admin/Documents/flutter_project/mood_mixer/build/pdfrx/intermediates/cxx/Debug/641a6m3t/obj/armeabi-v7a/libpdfrx.so	ae0c67abc98887e5
+5	228	1714821572613112380	/Users/admin/Documents/flutter_project/mood_mixer/build/pdfrx/intermediates/cxx/Debug/641a6m3t/obj/armeabi-v7a/libpdfrx.so	ae0c67abc98887e5
+5	261	1715089984306336035	/Users/admin/Documents/flutter_project/mood_mixer/build/pdfrx/intermediates/cxx/Debug/641a6m3t/obj/armeabi-v7a/libpdfrx.so	ae0c67abc98887e5
+3	112	1715090101360645232	/Users/admin/Documents/flutter_project/mood_mixer/build/pdfrx/intermediates/cxx/Debug/641a6m3t/obj/armeabi-v7a/libpdfrx.so	ae0c67abc98887e5
+18	150	1715102100408828667	/Users/admin/Documents/flutter_project/mood_mixer/build/pdfrx/intermediates/cxx/Debug/641a6m3t/obj/armeabi-v7a/libpdfrx.so	ae0c67abc98887e5
+7	284	1715117175013269095	/Users/admin/Documents/flutter_project/mood_mixer/build/pdfrx/intermediates/cxx/Debug/641a6m3t/obj/armeabi-v7a/libpdfrx.so	ae0c67abc98887e5
+3	144	1715118004773503857	/Users/admin/Documents/flutter_project/mood_mixer/build/pdfrx/intermediates/cxx/Debug/641a6m3t/obj/armeabi-v7a/libpdfrx.so	ae0c67abc98887e5
+5	205	1715118224374779045	/Users/admin/Documents/flutter_project/mood_mixer/build/pdfrx/intermediates/cxx/Debug/641a6m3t/obj/armeabi-v7a/libpdfrx.so	ae0c67abc98887e5
+4	181	1715118694135032251	/Users/admin/Documents/flutter_project/mood_mixer/build/pdfrx/intermediates/cxx/Debug/641a6m3t/obj/armeabi-v7a/libpdfrx.so	ae0c67abc98887e5
+2	201	1715118980190205340	/Users/admin/Documents/flutter_project/mood_mixer/build/pdfrx/intermediates/cxx/Debug/641a6m3t/obj/armeabi-v7a/libpdfrx.so	ae0c67abc98887e5
+4	122	1715125563209407939	/Users/admin/Documents/flutter_project/mood_mixer/build/pdfrx/intermediates/cxx/Debug/641a6m3t/obj/armeabi-v7a/libpdfrx.so	ae0c67abc98887e5
+2	71	1715130361255623372	/Users/admin/Documents/flutter_project/mood_mixer/build/pdfrx/intermediates/cxx/Debug/641a6m3t/obj/armeabi-v7a/libpdfrx.so	ae0c67abc98887e5
+5	298	1715449770985774705	/Users/admin/Documents/flutter_project/mood_mixer/build/pdfrx/intermediates/cxx/Debug/641a6m3t/obj/armeabi-v7a/libpdfrx.so	ae0c67abc98887e5

@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "shared",
+		"source" : "/Users/admin/Documents/flutter_project/mood_mixer/plugin_fork/pdfrx/pdfrx-0.4.54/src"
+	}
+}

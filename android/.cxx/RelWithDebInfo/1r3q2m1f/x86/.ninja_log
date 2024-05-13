@@ -1,0 +1,9 @@
+# ninja log v5
+0	195	1714180183210507578	shared/CMakeFiles/pdfrx.dir/pdfium_interop.cpp.o	cf9873d235481ae2
+195	252	1714180183256494875	/Users/admin/Documents/flutter_project/mood_mixer/build/pdfrx/intermediates/cxx/RelWithDebInfo/1r3q2m1f/obj/x86/libpdfrx.so	cc780a71c051686d
+3	65	1714180501205669618	/Users/admin/Documents/flutter_project/mood_mixer/build/pdfrx/intermediates/cxx/RelWithDebInfo/1r3q2m1f/obj/x86/libpdfrx.so	cc780a71c051686d
+4	65	1714531979666026201	/Users/admin/Documents/flutter_project/mood_mixer/build/pdfrx/intermediates/cxx/RelWithDebInfo/1r3q2m1f/obj/x86/libpdfrx.so	cc780a71c051686d
+4	73	1714813770189667991	/Users/admin/Documents/flutter_project/mood_mixer/build/pdfrx/intermediates/cxx/RelWithDebInfo/1r3q2m1f/obj/x86/libpdfrx.so	cc780a71c051686d
+4	73	1714814376366232394	/Users/admin/Documents/flutter_project/mood_mixer/build/pdfrx/intermediates/cxx/RelWithDebInfo/1r3q2m1f/obj/x86/libpdfrx.so	cc780a71c051686d
+4	131	1715091454910604638	/Users/admin/Documents/flutter_project/mood_mixer/build/pdfrx/intermediates/cxx/RelWithDebInfo/1r3q2m1f/obj/x86/libpdfrx.so	cc780a71c051686d
+3	60	1715130543549615278	/Users/admin/Documents/flutter_project/mood_mixer/build/pdfrx/intermediates/cxx/RelWithDebInfo/1r3q2m1f/obj/x86/libpdfrx.so	cc780a71c051686d

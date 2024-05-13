@@ -1,0 +1,30 @@
+name: pdfrx_example
+description: "Demonstrates how to use the pdfrx plugin."
+publish_to: 'none'
+
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  pdfrx:
+    path: ../../
+
+  cupertino_icons: ^1.0.6
+  rxdart: ^0.27.7
+  url_launcher: ^6.2.4
+  synchronized: ^3.1.0+1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.1
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
